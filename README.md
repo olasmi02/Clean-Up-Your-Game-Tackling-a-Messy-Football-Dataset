@@ -29,6 +29,7 @@ This repository contains the following files:
 
 - **clean_up_your_game.ipynb**: the Jupyter Notebook containing the code for cleaning the FIFA 21 dataset.
 - **fifa21 raw data v2.csv**: the FIFA 21 dataset in CSV format.
+- **fifa_21_clean.csv**: The clean version of the FIFA 21 dataset in CSV format
 
 ## Acknowledgements
 This dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring)
